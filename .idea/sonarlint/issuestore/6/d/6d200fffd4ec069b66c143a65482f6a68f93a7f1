@@ -1,0 +1,8 @@
+
+q	java:S116"URename this field "student_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‰Ì8¨Ñıµ1
+u	java:S116"TRename this field "course_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Äªüøÿÿÿÿ8¨Ñıµ1
+w	java:S116	"VRename this field "course_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤§øùÿÿÿÿ8¨Ñıµ1
+x	java:S116
+"WRename this field "usual_grades" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÄà¨ûÿÿÿÿ8¨Ñıµ1
+r	java:S116"WRename this field "final_grades" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¯öu8¨Ñıµ1
+x	java:S116"WRename this field "total_grades" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şûó üÿÿÿÿ8¨Ñıµ1

@@ -1,0 +1,25 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÃÕŸüÿÿÿÿ8ò‹ØÏ¶1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÃÕŸüÿÿÿÿ8ò‹ØÏ¶1
+l	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öít8ò‹ØÏ¶1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ô³òúÿÿÿÿ8ò‹ØÏ¶1
+m	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’“Î8ò‹ØÏ¶1
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÿŞšùÿÿÿÿ8ó‹ØÏ¶1
+s	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş™¦İûÿÿÿÿ8ó‹ØÏ¶1
+s	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š–ÈÆıÿÿÿÿ8ó‹ØÏ¶1
+s	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø›Ú™şÿÿÿÿ8ó‹ØÏ¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†…È8ô‹ØÏ¶1
+r
+java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+r
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+q
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+q
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+q
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8©ŒØÏ¶1
+t
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(„ô³òúÿÿÿÿ8¶ŒØÏ¶1

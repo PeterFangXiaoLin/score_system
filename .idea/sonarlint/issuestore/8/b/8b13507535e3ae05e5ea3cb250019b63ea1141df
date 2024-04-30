@@ -1,0 +1,31 @@
+
+
+java:S1192k"kDefine a constant instead of duplicating this literal "è´¦æˆ·æˆ–å¯†ç é”™è¯¯ï¼Œè¯·é‡æ–°è¾“å…¥ï¼" 3 times.(Éğªïüÿÿÿÿ8¹ÃÛÍ¶1
+l
+java:S1659"JDeclare "usernameLabel" and all following declarations on a separate line.(ªÓœÍÿÿÿÿÿ8ØÃÛÍ¶1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ğÑòóüÿÿÿÿ8ØÃÛÍ¶1
+C
+java:S2129%"!Remove this "Integer" constructor(¿ŒëÓşÿÿÿÿ8ØÃÛÍ¶1
+Z
+java:S1854i"=Remove this useless assignment to local variable "adminPage".(Ëúî¥8èÃÛÍ¶1
+\
+java:S1854u"?Remove this useless assignment to local variable "teacherPage".(‚¨Óù8èÃÛÍ¶1
+]
+java:S1854"?Remove this useless assignment to local variable "studentPage".(´ƒµµ8èÃÛÍ¶1
+K
+java:S1481i".Remove this unused "adminPage" local variable.(Ëúî¥8èÃÛÍ¶1
+M
+java:S1481u"0Remove this unused "teacherPage" local variable.(‚¨Óù8÷ÃÛÍ¶1
+N
+java:S1481"0Remove this unused "studentPage" local variable.(´ƒµµ8÷ÃÛÍ¶1
+H
+java:S1128"+Remove this unused import 'database.DBcon'.(‡ÆÚØ8—¿ßÍ¶1
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8—¿ßÍ¶1
+Y
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8—¿ßÍ¶1
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8—¿ßÍ¶1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8—¿ßÍ¶1

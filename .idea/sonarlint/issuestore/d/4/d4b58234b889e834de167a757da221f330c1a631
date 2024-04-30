@@ -1,0 +1,15 @@
+
+m	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¦Ú8”“ùÍ¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†…È8”“ùÍ¶1
+q
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8£“ùÍ¶1
+i
+java:S20958"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ©ûÿÿÿÿ8£“ùÍ¶1
+q
+java:S2095z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8£“ùÍ¶1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8£“ùÍ¶1
+q
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ8£“ùÍ¶1
+i
+java:S2095F"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ©ûÿÿÿÿ8£“ùÍ¶1

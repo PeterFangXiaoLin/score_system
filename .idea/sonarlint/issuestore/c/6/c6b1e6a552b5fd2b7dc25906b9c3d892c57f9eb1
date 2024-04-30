@@ -1,0 +1,9 @@
+
+u	java:S116"TRename this field "course_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Äªüøÿÿÿÿ8¤àÏ³µ1
+w	java:S116"VRename this field "course_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¤§øùÿÿÿÿ8©àÏ³µ1
+y	java:S116	"XRename this field "course_theory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨éÇõùÿÿÿÿ8©àÏ³µ1
+{	java:S116
+"ZRename this field "course_practice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÌûÒıÿÿÿÿ8©àÏ³µ1
+x	java:S116"WRename this field "course_score" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‹îäıÿÿÿÿ8©àÏ³µ1
+r	java:S116"VRename this field "course_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÆ‚ç8©àÏ³µ1
+x	java:S116"WRename this field "teacher_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àû‚ÿùÿÿÿÿ8°™Ë¶1

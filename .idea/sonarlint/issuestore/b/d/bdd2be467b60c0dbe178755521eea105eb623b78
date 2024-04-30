@@ -1,0 +1,20 @@
+
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄúûÌùÿÿÿÿ8¥Í¥Î¶1
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‚´8¥Í¥Î¶1
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î½Â¸8¥Í¥Î¶1
+s	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‡¯¥şÿÿÿÿ8¥Í¥Î¶1
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“õ¡ûÿÿÿÿ8¥Í¥Î¶1
+_
+java:S1659"BDeclare "bEdit" and all following declarations on a separate line.(‡ÊÁ8»Í¥Î¶1
+D
+java:S3010]""Remove this assignment of "table".(ê‡Ìûÿÿÿÿ8»Í¥Î¶1
+i
+java:S3252'"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(§ıÏÁ8ËÍ¥Î¶1
+d
+java:S3252”"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ÿˆ¿ÿÿÿÿÿÿ8ÛÍ¥Î¶1
+d
+java:S3252•"AUse static access with "javax.swing.SwingConstants" for "CENTER".(’®üúşÿÿÿÿ8ÛÍ¥Î¶1
+N
+java:S1128",Remove this unused import 'statics.IsFloat'.(Ö›ª…øÿÿÿÿ8úªÚû¶1
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Š«Úû¶1

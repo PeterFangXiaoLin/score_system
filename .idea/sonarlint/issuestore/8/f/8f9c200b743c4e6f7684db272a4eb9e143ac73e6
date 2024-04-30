@@ -1,0 +1,16 @@
+
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ò£¬â´1
+s
+java:S1104
+"VMake connection a static final constant or non-public and provide accessors if needed.(ıØÕá8ó£¬â´1
+M
+java:S1444
+"0Make this "public static connection" field final(ıØÕá8ó£¬â´1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒÎÌí8ı£¬â´1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úäÀ˜úÿÿÿÿ8ı£¬â´1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß°¸8ı£¬â´1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(…Š°µ8ËÌ®â´1
+X
+java:S6437"6Revoke and change this password, as it is compromised.(ä¢ôŞüÿÿÿÿ8ƒ¤¬â´1
